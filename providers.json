@@ -1,0 +1,65 @@
+[
+    {
+        "id": "sololatino",
+        "name": "SoloLatino",
+        "logo": "https://i.imgur.com/emE2iE0.png",
+        "status": "Activo",
+        "type": "Películas y Series en Español Latino."
+    },
+    {
+        "id": "doramasflix",
+        "name": "Doramasflix",
+        "logo": "https://i.imgur.com/p8p8p8p.png",
+        "status": "Activo",
+        "type": "Amplio catálogo de Doramas y series asiáticas."
+    },
+    {
+        "id": "pelisplusto",
+        "name": "Pelisplusto",
+        "logo": "https://i.imgur.com/dAm3oHh.png",
+        "status": "Activo",
+        "type": "Películas y Series en HD."
+    },
+    {
+        "id": "cinecalidad",
+        "name": "CineCalidad",
+        "logo": "https://i.imgur.com/wYV5zBv.png",
+        "status": "Activo",
+        "type": "Películas de alta calidad en Español."
+    },
+    {
+        "id": "flixlatam",
+        "name": "FlixLatam",
+        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "status": "Activo",
+        "type": "Contenido variado de Películas y Series."
+    },
+    {
+        "id": "animeflv",
+        "name": "AnimeFLV",
+        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "status": "Mantenimiento",
+        "type": "Extenso repositorio de Anime."
+    },
+    {
+        "id": "animefenix",
+        "name": "AnimeFenix",
+        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "status": "Muerto",
+        "type": "Archivo de series de Anime."
+    },
+    {
+        "id": "latanime",
+        "name": "Latanime",
+        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "status": "Activo",
+        "type": "Anime con doblaje en Español Latino."
+    },
+    {
+        "id": "cablevisionhd",
+        "name": "CableVisionHD",
+        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "status": "Activo",
+        "type": "Canales de TV en vivo y eventos deportivos."
+    }
+]
