@@ -2,64 +2,65 @@
     {
         "id": "sololatino",
         "name": "SoloLatino",
-        "logo": "https://i.imgur.com/emE2iE0.png",
+        "logo": "https://sololatino.net/wp-content/uploads/2022/11/logo-final.png",
         "status": "Activo",
         "type": "Películas y Series en Español Latino."
     },
     {
         "id": "doramasflix",
         "name": "Doramasflix",
-        "logo": "https://i.imgur.com/p8p8p8p.png",
+        "logo": "https://doramasflix.in/img/logo.png",
         "status": "Activo",
         "type": "Amplio catálogo de Doramas y series asiáticas."
     },
     {
         "id": "pelisplusto",
         "name": "Pelisplusto",
-        "logo": "https://i.imgur.com/dAm3oHh.png",
+        "logo": "https://ww3.pelisplus.to/images/logo2.png",
         "status": "Activo",
         "type": "Películas y Series en HD."
     },
     {
         "id": "cinecalidad",
         "name": "CineCalidad",
-        "logo": "https://i.imgur.com/wYV5zBv.png",
+        "logo": "https://www.cinecalidad.ec/wp-content/themes/Cinecalidad/assets/img/logo.png",
         "status": "Activo",
         "type": "Películas de alta calidad en Español."
     },
     {
         "id": "flixlatam",
         "name": "FlixLatam",
-        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "logo": "https://flixlatam.com/wp-content/uploads/2022/04/cropped-Series-Latinoamerica.jpg",
         "status": "Activo",
         "type": "Contenido variado de Películas y Series."
     },
     {
         "id": "animeflv",
         "name": "AnimeFLV",
-        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "logo": "https://www3.animeflv.net/assets/animeflv/img/logo.png",
         "status": "Mantenimiento",
         "type": "Extenso repositorio de Anime."
     },
     {
         "id": "animefenix",
         "name": "AnimeFenix",
-        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "logo": "https://animefenix2.tv/themes/fenix-neo/images/AveFenix.png",
         "status": "Muerto",
         "type": "Archivo de series de Anime."
     },
     {
         "id": "latanime",
         "name": "Latanime",
-        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "logo": "https://latanime.org/public/img/logito.png",
         "status": "Activo",
         "type": "Anime con doblaje en Español Latino."
     },
     {
         "id": "cablevisionhd",
         "name": "CableVisionHD",
-        "logo": "https://i.imgur.com/k6f4Z8g.png",
+        "logo": "https://i.ibb.co/4gMQkN2b/imagen-2025-09-05-212536248.png",
         "status": "Activo",
         "type": "Canales de TV en vivo y eventos deportivos."
     }
+
 ]
