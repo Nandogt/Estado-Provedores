@@ -38,14 +38,14 @@
         "id": "animeflv",
         "name": "AnimeFLV",
         "logo": "https://www3.animeflv.net/assets/animeflv/img/logo.png",
-        "status": "Mantenimiento",
+        "status": "Activo",
         "type": "Extenso repositorio de Anime."
     },
     {
         "id": "animefenix",
         "name": "AnimeFenix",
         "logo": "https://animefenix2.tv/themes/fenix-neo/images/AveFenix.png",
-        "status": "Muerto",
+        "status": "Activo",
         "type": "Archivo de series de Anime."
     },
     {
@@ -64,3 +64,4 @@
     }
 
 ]
+
