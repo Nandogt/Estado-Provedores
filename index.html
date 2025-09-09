@@ -3,98 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estado de Proveedores Streamflix</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Streamflix - Estado de Proveedores</title>
+    <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
     <header>
         <h1>Estado de Proveedores Streamflix</h1>
-        <p>Información centralizada sobre el estado y mantenimiento de los proveedores.</p>
+        <p>Versión Actualizada</p>
     </header>
 
-    <main class="container">
-
-        <section class="card-section general-info">
-            <h2 class="section-title">Acerca de los Proveedores</h2>
-            <div class="card-grid">
-                
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Equipo y Reporte de Errores</h3>
-                        <p>
-                            ¡Hola a todos!<br><br>
-                            Les presento este nuevo proveedor, que ha sido desarrollado gracias a la fantástica colaboración de 💎<strong>@NandoGT</strong>💎 y 💎<strong>@Nandofs</strong>💎. ¡Un excelente trabajo en equipo!
-                            <br><br>
-                            <strong>Soporte y Reporte de Errores</strong><br>
-                            Si llegan a encontrar algún problema con los proveedores para contenido en español (Latinoamérica), por favor no duden en reportarlo escaneando el QR. De esta manera, podré trabajar en una solución lo antes posible.
-                            <br><br>
-                            <strong>Agradecimientos Especiales</strong><br>
-                            Quiero extender un agradecimiento a todas las personas que aportan a este proyecto, y de manera muy especial a su autor principal, <strong>Lory-Stan TANASI</strong> (<a href="https://stantanasi.github.io/" target="_blank" rel="noopener noreferrer">stantanasi.github.io</a>), por su increíble trabajo y dedicación.
-                        </p>
-                    </div>
-                    <div class="card-qr">
-                        <img src="https://i.ibb.co/dsknGBHT/Imagen-de-Whats-App-2025-09-06-a-las-19-00-50-e8e5bcaa.jpg" alt="QR de Telegram para Reportes">
-                        <span>Canal de Soporte</span>
-                    </div>
-                </div>
-
-                <div class="card support-card">
-                    <div class="card-content">
-                        <h3>Apoya Si te gusta este Proveedor</h3>
-                        <p>
-                           Si disfrutas usando este proveedor, te invito a considerar apoyar mi trabajo y, a su vez, al proyecto principal de Streamflix. Saber que valoras nuestro esfuerzo nos anima a seguir dedicándole tiempo y pasión a este hermoso proyecto.
-                        </p>
-                        <p>
-                           ¡Cualquier aporte, por pequeño que sea, hace una gran diferencia!
-                        </p>
-                    </div>
-                     <div class="card-action">
-                        <img src="https://i.ibb.co/B234HsZg/APOYO-NANDO.png" class="support-button" target="_blank" rel="noopener noreferrer">
-                            Apoyar el desarrollo
-                        </a>
-                     </div>
-                </div>
-
+    <main>
+        <section id="info-general" class="info-grid">
+            <div class="info-card">
+                <h2>Acerca de este Proyecto</h2>
+                <p>Esta página sirve como un centro de información para verificar el estado actual de los proveedores de contenido para la aplicación Streamflix. Nuestro objetivo es ofrecer transparencia y mantener a la comunidad informada.</p>
+                <hr>
+                <p><strong>Agradecimientos Especiales:</strong></p>
+                <p>Un agradecimiento especial a <a href="https://github.com/tanasi" target="_blank">Tanasi</a>, el desarrollador original de esta increíble aplicación. Su trabajo ha sido la base de todo.</p>
+            </div>
+            <div class="info-card">
+                <h2>Reportar un Problema</h2>
+                <p>Este es el canal oficial para reportar cualquier fallo, enlace caído o problema con los proveedores listados. Tu ayuda es vital para mantener el servicio activo.</p>
+                <img src="https://i.imgur.com/teLiC56.png" alt="QR a Telegram" class="qr-code">
+                 <p><small>Contacta por Telegram</small></p>
+            </div>
+            <div class="info-card">
+                <h2>Apoya el Mantenimiento</h2>
+                <p>Somos los mantenedores de esta lista de proveedores. Tu apoyo económico nos ayuda a cubrir costos, dedicar tiempo a reparaciones y añadir nuevas fuentes de contenido.</p>
+                <img src="https://i.imgur.com/9oFG8mC.png" alt="QR para Donación" class="qr-code">
+                 <p><small>Donar para el proyecto</small></p>
             </div>
         </section>
 
-        <section class="card-section provider-status">
-            <h2 class="section-title">Estado de los Proveedores</h2>
-            <div class="card-grid">
-
-                <div class="card provider-card">
-                    <div class="provider-header">
-                        <h3>SoloLatino</h3>
-                        <span class="status active">Activo</span>
-                    </div>
-                    <div class="provider-content">
-                        <p><strong>Contenido:</strong> Películas y Series en Español Latino.</p>
-                        <p><strong>Observaciones:</strong> Funcionando correctamente.</p>
-                    </div>
-                </div>
-                <div class="card provider-card">
-                    <div class="provider-header">
-                        <h3>Doramasflix</h3>
-                        <span class="status active">Activo</span>
-                    </div>
-                    <div class="provider-content">
-                        <p><strong>Contenido:</strong> Doramas, series y películas asiáticas.</p>
-                        <p><strong>Observaciones:</strong> Funcionando correctamente.</p>
-                    </div>
-                </div>
-
-                </div>
-        </section>
-
+        <h2>Listado de Proveedores</h2>
+        <section id="provider-list" class="provider-grid">
+            </section>
     </main>
 
+    <div id="modal-container" class="modal-container">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2 id="modal-title"></h2>
+            <p id="modal-type"></p>
+        </div>
+    </div>
+
     <footer>
-        <p>Página de estado no oficial. Creada por la comunidad para la comunidad.</p>
+        <p>Proyecto Comunitario - No afiliado con los desarrolladores originales de la app.</p>
     </footer>
 
+    <script src="script.js"></script>
 </body>
 </html>
